@@ -11,9 +11,13 @@ to classify these transmissions based on these attributes.
 
 Dataset (Alien Messages Corpus)
 The intercepted transmissions are structured as follows:
+
 • Message: The alien communication in text form.
+
 • Species: The species that sent the message.
+
 • Number of Fingers: The typical number of fingers for the species.
+
 • Tail: A yes/no field indicating whether the species has a tail.
 
 Task
