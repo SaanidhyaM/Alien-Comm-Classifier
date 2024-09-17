@@ -9,7 +9,7 @@ messages, where each message is associated with specific attributes such as the
 alien species, number of fingers, and whether they possess a tail. Your task is
 to classify these transmissions based on these attributes.
 
-Dataset (Alien Messages Corpus)
+# Dataset (Alien Messages Corpus)
 The intercepted transmissions are structured as follows:
 
 • Message: The alien communication in text form.
@@ -20,7 +20,8 @@ The intercepted transmissions are structured as follows:
 
 • Tail: A yes/no field indicating whether the species has a tail.
 
-Task
+# Task
+
 You talked to a lot of aliens this time and want to test how accurate your
 prediction skill has become. You thus log all your conversations, observe the
 number of fingers and the existence of tails for these new aliens in test.csv.
