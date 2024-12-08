@@ -26,9 +26,6 @@ You talked to a lot of aliens this time and want to test how accurate your
 prediction skill has become. You thus log all your conversations, observe the
 number of fingers and the existence of tails for these new aliens in test.csv.
 Your goal is to identify the species of aliens in test.csv based on the intercepted
-messages, number of fingers, and presence of a tail. Submit a result.csv file
+messages, number of fingers, and presence of a tail with a result.csv file
 only containing a column titled ’Species’ that contains species for each row of
-test.csv based on your predictions. This part will be graded on the accuracy
-of the predictions in the result.csv file and the approach and cleanliness of
-your solution (solution.ipynb). Ensure that your approach is clearly written
-with comments and markdown cells in the python notebook that you submit.
+test.csv based on your predictions. 
